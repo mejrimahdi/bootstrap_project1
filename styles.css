@@ -1,0 +1,19 @@
+.hero-section {
+    background-image: url('./food-set-delicious-dishes-delicacies-wooden-background-top-view-copy-space_187166-20048.avif');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+.hero-content {
+    max-width: 600px;
+}
+.nav-link {
+font-size: large;
+display: flex;
+
+}
